@@ -8,4 +8,4 @@
 [This is a link](http://google.com)
 ----------
 
-! [giraff.jpg](https://www.pexels.com/search/giraffe/)
+![https://github.com/AnnaKass1/Homework/edit/main/giraff.jpg](https://www.pexels.com/search/giraffe/)
